@@ -1,0 +1,1 @@
+Ive recently joined the course and havent had much time to practice but this is my emoji piece that represent duality/masking/hiding. what inspired me was the societal norm of conforming to others.
