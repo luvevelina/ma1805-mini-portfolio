@@ -15,4 +15,13 @@ MEDIA
 I faced the most challanges here with rendering the sounds and images. i tried to add multiple pieces of media but my code only ran with 3 . i combined a mixture of nature and man made things showing the contrast of life from what we see and hear.
 
 REFERENCES
+
 https://pixabay.com/sound-effects/search/mp3/ (website used for sound effects in media)
+
+https://github.com/luvevelina/ma1805-mini-portfolio
+[01.drawing](01.drawing/index.html)
+[02.movement](02.movement/index.html)
+[03.multiples](03.multiples/index.html)
+[04.media](04.media/index.html)
+
+
